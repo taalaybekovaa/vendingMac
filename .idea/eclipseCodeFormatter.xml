@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="optimizeImports" value="false" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Downloads/JavaCodeFormatterProfile.xml" />
+        <option name="selectedJavaProfile" value="HAD Code Formatter Profile" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
